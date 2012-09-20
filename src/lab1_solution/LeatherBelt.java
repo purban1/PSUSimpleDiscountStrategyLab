@@ -1,4 +1,4 @@
-package lab1.solution;
+package lab1_solution;
 
 import lab1.*;
 
@@ -6,15 +6,16 @@ import lab1.*;
  *
  * @author jlombardo
  */
-public class Socks extends Product {
+public class LeatherBelt extends Product {
 
-    public Socks() {
+    public LeatherBelt() {
     }
 
-    public Socks(String partName, String partNumber, double price) {
+    public LeatherBelt(String partName, String partNumber, double price) {
         this.setPartName(partName);
         this.setPartNumber(partNumber);
         this.setPrice(price);
     }
     
+
 }

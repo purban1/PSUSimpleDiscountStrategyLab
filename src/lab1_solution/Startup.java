@@ -1,4 +1,4 @@
-package lab1.solution;
+package lab1_solution;
 
 import lab1.*;
 import java.text.NumberFormat;
